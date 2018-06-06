@@ -1,0 +1,1 @@
+Measure-Command {.\CyberEssentials.ps1} > .\Data\timetake.txt
